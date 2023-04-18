@@ -1,6 +1,6 @@
 # Ange DJEMO Personal projects
 
-### Welcome to my github repository. You will find below some projects that I have implemented from scratch.
+### Welcome to my github repository. You will find below some peronal projects.
 
 1- **[covid19info](https://github.com/DJEMOA/covid19info)** : 
 This is a website that gives in real time some statistics of covid 19 cases in a world map.
