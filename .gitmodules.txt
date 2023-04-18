@@ -1,3 +1,0 @@
-[submodule "https://github.com/DJEMOA/angedjemo.github.io"] 
-  path = path_to_submodule 
-  url = https://gitlab.com/DJEMOA/covid19info
